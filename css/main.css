@@ -6,6 +6,9 @@ body {
 	color: #FAFAFA;
 	font-family: 'PT Sans', sans-serif;
 }
+header {
+	border-bottom:2px solid #ffffff;
+}
 
 h1 {
 	font-family: 'Georgia', 'Noto Serif', serif;
